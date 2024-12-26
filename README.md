@@ -1,7 +1,7 @@
 To Run this code you need to install
--tkinter
+-Tkinter
 -pillow 
 -Python 3
-use this commends to installin your system
-pip install tkinter
+use this commends to install your system
+pip install Tkinter
 pip install pillow
